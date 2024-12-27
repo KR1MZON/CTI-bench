@@ -1,0 +1,51 @@
+GT	gemma2-9b-Q8	llama3.1-8b-Q8	mistral-nemo-12b-Q8	phi3-8b-medium-Q8	qwen2-7b-Q8	Llama3.1 ft v1	Llama3.1 ft v2
+SideCopy	FIN7	FIN7	FIN7	CloakRAT	Cobalt	X	X
+MUSTANG PANDA	APT36	Transparent Tribe	APT36	APT	APT36	Transparent Tribe	X
+MUSTANG PANDA	APT34	APT34	ASEAN	APT32	APT	X	X
+MUMMY SPIDER	APT41	APT41	APT32	CL-STA-0044	CL-STA-0044	X	X
+Dark Caracal	FIN7	Emotet	FIN7	Trickbot	Emotet	X	X
+APT19  	X	APT32	APT32	APT34	FIN7	APT41	X
+APT19  	APT41	APT41	APT41	APT41	APT31	X	X
+APT-C-36	Qakbot	Qakbot	X	Qakbot	Qakbot	X	X
+APT-C-36	X	X	APT28	APT34	X	X	X
+Turla  	X	APT	APT	APT	APT	X	X
+Turla  	UNC4210	UNC4210	UNC4210	APT29	UNC	UNC4210	X
+APT28  	X	FIN7	FIN7	FIN7	X	X	X
+APT28  	APT28	FIN7	FIN7	Lazarus	APT28	X	X
+UNC2452  	APT28	APT28	APT28	Fancy Bear	APT28	X	X
+UNC2452  	X	X	X	X	X	X	X
+CHRYSENE  	FIN7	FIN7	FIN7	Silent Librarian	FIN7	X	X
+CHRYSENE  	X	X	APT32	APT32	FIN7	X	X
+APT41  	APT34	APT34	APT34	X	APT34	X	X
+lazarus	UNAPIMON	X	APT34	X	X	X	X
+Kimsuky  	APT	HazyLoad	X	APT28	FIN7	Andariel	Andariel
+Kimsuky  	Lazarus	Lazarus	Lazarus	Gomir	GOMIR	X	North Korean
+APT36	APT34	FIN7	FIN7	FIN7	FIN7	X	X
+APT35	SideCopy	APT	SideCopy	SideCopy	APT	SideCopy	SideCopy
+MuddyWater  	APT35	APT35	APT34	MischiefTut	APT35	X	X
+MuddyWater  	X	APT34	APT34	DarkBeatC2	DarkBeat	X	X
+CharmingCypress	X	APT34	X	APT29	MuddyC2	X	X
+Mint Sandstorm	BASICSTAR	BASICSTAR	BARIUM	APT34	FIN7	X	X
+APT31	X	X	subgroup	CharmPower	CharmPower	X	X
+Gamaredon	APT41	Warood	APT31	APT41	APT31	X	X
+Gamaredon	Chinese	APT31	APT31	APT31	X	APT41	X
+Sharp Panda	X	REGRU	APT	APT32	APT28	X	X
+Bitter APT 	Gamaredon	Gamaredon	Gamaredon	Gamaredon	APT28	Gamaredon	Gamaredon
+Confucius	Chinese APT	APT	TAG-16	APT	APT	X	Chinese-based threat actor group
+Dragonfly	APT32	FIN7	APT34	FIN7	FIN7	X	X
+Andariel	APT36	Hornbill	APT	APT	APT	X	X
+COLDRIVER	DORSHEL	X	X	XENOT	Karagany	APT28	X
+Bahamut	Kimsuky	Kimsuky	Lazarus	Lazarus	Lazarus	Kimsuky	Kimsuky
+APT37	APT28	APT29	APT28	Turla	APT29	X	X
+APT33	X	APT-C-23	Unknown APT Group	X	APT-C-94	X	X
+APT29	Lazarus	StarCruft	Lazarus	StarCruft	StarCruft	X	X
+APT29	APT35	Peach Sandstorm	APT35	Peach Sandstorm	Peach Sandstorm	X	X
+APT29	APT32	BURNTBATTER	BURNTBATTER	MANDIANT	APT32	X	X
+Diamond Sleet	Cozy Bear	Cozy Bear	X	Cozy Bear	APT29	Cozy Bear	X
+Lazarus	APT29	SVR	APT29	Fancy Bear	Cozy Bear	SVR	Russian SVR
+Lazarus	Temp.Hermit	Lazarus	Lazarus	LambLoad	ZINC	North Korea-based threat actor	X
+Lazarus	Lazarus	Lazarus	Lazarus	Lazarus	Lazarus	X	X
+Lazarus	Andariel	Andariel	X	X	Andariel	X	X
+OilRig	Lazarus	Lazarus	Lazarus	Lazarus	Lazarus	X	X
+MuddyWater	Lazarus	Lazarus	Lazarus	Lazarus	APT29	X	X
+Turla	Charming Kitten	APT34	APT34	APT34	APT35	X	X
